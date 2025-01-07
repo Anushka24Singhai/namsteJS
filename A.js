@@ -2,7 +2,14 @@ getName();
 console.log(x);
 var x = 7;
 function getName() {
-    console.log("Namaste JS");
+    console.log("Namaste JaaaS");
+
 }
+function newfunc() {
+    console.log("Namaste JaaaS");
+
+}
+
+
 
 
